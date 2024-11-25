@@ -1,6 +1,6 @@
 # rappidex-codegen README
 
-This is the README for your extension "rappidex-codegen". After writing up a brief description, we recommend including the following sections.
+"rappidex-codegen". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 
