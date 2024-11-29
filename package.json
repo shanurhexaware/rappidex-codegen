@@ -13,13 +13,19 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": [],
+  "activationEvents": [
+    "onCommand:extension.scanCode"
+  ],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "extension.getAIPoweredBotResponse",
+       "command": "extension.getAIPoweredBotResponse",
         "title": "Rappidex Code generation"
+        },
+      {
+        "command": "extension.scanCode",
+        "title": "Scan Code and Suggest Changes"
       }
     ]
   },
